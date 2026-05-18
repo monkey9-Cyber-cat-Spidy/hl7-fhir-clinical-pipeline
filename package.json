@@ -1,0 +1,17 @@
+{
+  "name": "hl7-fhir-clinical-pipeline",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "hl7",
+    "fhir",
+    "healthcare",
+    "interoperability",
+    "clinical"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
